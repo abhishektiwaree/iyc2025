@@ -291,6 +291,7 @@ div#mtsnb-153 {
                                           <ul class="sub-menu">
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Launch of Portal for IYC-2025
                                               </a></li>
+                                              <li id="menu-item-133" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
                                             <!-- <li id="menu-item-133" class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/blog-with-left-sidebar/">Blog with Left Sidebar</a></li>
                                             <li id="menu-item-134" class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/blog-with-right-sidebar/">Blog with Right Sidebar</a></li> -->
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Onboarding of e-office
@@ -319,29 +320,33 @@ div#mtsnb-153 {
                         <a class="mobile-menu-close" href="#"><i class="fas fa-times"></i></a>
 
                      </div>
-                     <div class="menu clearfix"><ul id="menu-primary-menu-1" class="clearfix mobile_nav"><li class="home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-121"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/" aria-current="page">Home</a></li>
-<li class="about menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/about-us/">About</a></li>
-<li class="page menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a>Pages</a>
-<ul class="sub-menu">
-	<li class="page-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/page-with-left-sidebar/">Page with Left Sidebar</a></li>
-	<li class="page-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-125"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/page-with-right-sidebar/">Page with Right Sidebar</a></li>
-	<li class="services menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/services/">Services</a></li>
-	<li class="events menu-item menu-item-type-custom menu-item-object-custom menu-item-127"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/events/">Events</a></li>
-	<li class="error menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/404-2/">404</a></li>
-	<li class="typography menu-item menu-item-type-custom menu-item-object-custom menu-item-129"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/typography/">Typography</a></li>
-</ul>
-</li>
-<li class="shop menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/shop/">Shop</a></li>
-<li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-131"><a>Blog</a>
-<ul class="sub-menu">
-	<li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/blog/">Blog With No Sidebar</a></li>
-	<li class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/blog-with-left-sidebar/">Blog with Left Sidebar</a></li>
-	<li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/blog-with-right-sidebar/">Blog with Right Sidebar</a></li>
-</ul>
-</li>
-<li class="contact menu-item menu-item-type-custom menu-item-object-custom menu-item-135"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/contact-us/">Contact</a></li>
-<li class="header_buy_now menu-item menu-item-type-custom menu-item-object-custom menu-item-143"><a target="_blank" rel="noopener" href="https://www.buywptemplates.com/cart/44251531706520:1">Buy Now</a></li>
-</ul></div>                  </nav>
+                     <div class="menu clearfix">
+                                      <ul id="menu-primary-menu-1" class="clearfix mobile_nav">
+                                        <li class="home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-121"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/" aria-current="page">Home</a></li>
+                                        <li class="about menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/about-us/">About</a></li>
+                                        <li class="page menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a>Get Involved </a>
+                                          <ul class="sub-menu">
+                                            <li class="page-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a href="#">Best Cooperative Song</a></li>
+                                            <li class="page-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-125"><a href="#">Plantation Drive</a></li>
+                                            <li class="services menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="#">Rangoli Making</a></li>
+                                            <li class="events menu-item menu-item-type-custom menu-item-object-custom menu-item-127"><a href="#">Use The IYC Logo</a></li>
+                                            <!-- <li class="error menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/404-2/">404</a></li>
+                                            <li class="typography menu-item menu-item-type-custom menu-item-object-custom menu-item-129"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/typography/">Typography</a></li> -->
+                                          </ul>
+                                        </li>
+                                        <li class="event menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-130"><a href="#">Events</a>
+                                        <ul class="sub-menu">
+                                            <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./events.php">Launch of Portal for IYC-2025</a></li>
+                                            <li class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
+                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting</a></li>
+                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./vatika.php">Inauguration of Cooperative Vatika</a></li>
+                                          </ul>
+                                          </li>
+                                        <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="./gallery.php">Gallery</a>
+                                        
+                                     
+                                        
+                                    </div>                  </nav>
                </div>
                </amp-sidebar>
             </div>
@@ -433,15 +438,15 @@ div#mtsnb-153 {
 
     <div class="row gallery" style="padding:20px;">
         <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-            <img src="./gallery/gallery_001.png" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 6" style="height:350px;" onclick="openModal(5)">
+            <img src="./gallery/gallery_001.png" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 6" style="height:300px;" onclick="openModal(5)">
         </div>
         <div class="col-lg-4 mb-4 mb-lg-0">
             <img src="./gallery/img10.jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 7" onclick="openModal(6)">
         </div>
         <div class="col-lg-4 mb-4 mb-lg-0">
-            <img src="./gallery/img13 (1).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 8" style="height:350px;" onclick="openModal(7)">
+            <img src="./gallery/img13 (1).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 8" style="height:300px;" onclick="openModal(7)">
         </div>
-        <div class="col-lg-4 mb-4 mb-lg-0"style="margin-top:-190px;">
+        <div class="col-lg-4 mb-4 mb-lg-0"style="margin-top:-240px;">
             <img src="./gallery/img13 (2).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 9" onclick="openModal(8)">
         </div>
         <div class="col-lg-4 mb-4 mb-lg-0" style="margin:-240px 0px 0px 850px;">

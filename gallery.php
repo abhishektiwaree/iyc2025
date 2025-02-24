@@ -274,7 +274,7 @@ div#mtsnb-153 {
                                   <nav id="site-navigation" class="main-navigation">
                                     <div class="menu clearfix">
                                       <ul id="menu-primary-menu" class="clearfix mobile_nav">
-                                        <li id="menu-item-121" class="home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-121"><a href="index.php" aria-current="page">Home</a></li>
+                                        <li id="menu-item-121" class="home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-121"><a href="" aria-current="page">Home</a></li>
                                         <li id="menu-item-122" class="about menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a href="#">About</a></li>
                                         <li id="menu-item-123" class="page menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a>Get Involved</a>
                                           <ul class="sub-menu">
@@ -287,24 +287,26 @@ div#mtsnb-153 {
                                             <li id="menu-item-129" class="typography menu-item menu-item-type-custom menu-item-object-custom menu-item-129"><a href="#">Typography</a></li> -->
                                           </ul>
                                         </li>
-                                        <li id="menu-item-131" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-131"><a>Events</a>
+                                        <li id="menu-item-131" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-131"><a href="#">Events</a>
                                           <ul class="sub-menu">
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Launch of Portal for IYC-2025
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./events.php">Launch of Portal for IYC-2025
                                               </a></li>
-                                              <li id="menu-item-133" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
-                                            <!-- <li id="menu-item-133" class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/blog-with-left-sidebar/">Blog with Left Sidebar</a></li>
-                                            <li id="menu-item-134" class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/blog-with-right-sidebar/">Blog with Right Sidebar</a></li> -->
+
+                                            <li id="menu-item-133" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting </a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative MT Godowns</a></li>
+
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Onboarding of e-office
                                               </a></li>
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Unveiling of Media Plan for Cooperative Department
                                               </a></li>
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Unveiling of AGM Calendar (APEX to PACS)</a></li>
+                                            <!-- <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Unveiling of AGM Calendar (APEX to PACS)</a></li>
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Inauguration of 25000 MT Godowns of UPSWC</a></li>
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Foundation stone laying ceremony of 15000 MT Godown of UPSWC
                                               </a></li>
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Inauguration of Data Center of Cooperative Department
                                               </a></li>
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Strengthening of Newly Registered M-PACS</a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#">Strengthening of Newly Registered M-PACS</a></li> -->
                                           </ul>
                                         </li>
 										<li id="menu-item-122" ><a href="./gallery.php">Gallery</a></li>

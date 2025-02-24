@@ -303,7 +303,7 @@ div#mtsnb-153 {
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Foundation stone laying ceremony of 15000 MT Godown of UPSWC
                                               </a></li> -->
                                               <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting </a></li>
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative Vatika</a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative MT Godowns</a></li>
 
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Inauguration of Data Center of Cooperative Department
                                               </a></li>
@@ -342,7 +342,7 @@ div#mtsnb-153 {
                                             <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./events.php">Launch of Portal for IYC-2025</a></li>
                                             <li class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
                                             <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting</a></li>
-                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./vatika.php">Inauguration of Cooperative Vatika</a></li>
+                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./vatika.php">Inauguration of Cooperative MT Godowns</a></li>
                                           </ul>
                                           </li>
                                         <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="./gallery.php">Gallery</a>
@@ -426,7 +426,7 @@ div#mtsnb-153 {
             <img src="./gallery/launch(1).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 1" onclick="openModal(0)">
         </div>
         <div class="col-lg-4 mb-4 mb-lg-0">
-            <img src="./gallery/launch(6).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 2" onclick="openModal(1)">
+            <img src="./gallery/launch(7).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 2" onclick="openModal(1)">
         </div>
         <div class="col-lg-4 mb-4 mb-lg-0">
             <img src="./gallery/launch(2).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 3" onclick="openModal(2)">

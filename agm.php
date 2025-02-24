@@ -294,7 +294,7 @@ div#mtsnb-153 {
 
                                             <li id="menu-item-133" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting </a></li>
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative Vatika</a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative 100 MT Godowns</a></li>
 
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Onboarding of e-office
                                               </a></li>
@@ -435,9 +435,9 @@ div#mtsnb-153 {
         </div>
     </div>
 </div> -->
-<div class="container">
+<!-- <div class="container">
   <div class="row justify-content-center">
-    <div class="col-4"style="margin-top: 30px;">
+    <div class="col-6"style="margin-top: 30px;">
     <img src="./gallery/agm(1).jpeg" class="w-100 shadow-1-strong rounded" alt="Gallery Image 1" onclick="openModal(0)">
     </div>
     <div class="col-4" style="margin-top: 30px;">
@@ -453,7 +453,24 @@ div#mtsnb-153 {
     <img src="./gallery/agm(4).jpeg" class="w-100 shadow-1-strong rounded" alt="Gallery Image 2" onclick="openModal(1)">
     </div>  
   </div>
-</div>
+</div> -->
+
+<div class="container">
+    <div class="row gallery" style="padding:20px;">
+        <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
+            <img src="./gallery/agm(1).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 1" onclick="openModal(0)">
+        </div>
+        <div class="col-lg-6 mb-4 mb-lg-0">
+            <img src="./gallery/agm(3).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 2" onclick="openModal(1)">
+        </div>
+        <div class="col-lg-6 mb-4 mb-lg-0">
+            <img src="./gallery/agm(2).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 3" onclick="openModal(2)">
+        </div>
+        <div class="col-lg-6 mb-4 mb-lg-0">
+            <img src="./gallery/agm(4).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 4" onclick="openModal(3)">
+        </div>
+       
+    </div>
 
 
 <!-- Bootstrap Modal with Carousel -->

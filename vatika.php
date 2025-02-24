@@ -294,7 +294,7 @@ div#mtsnb-153 {
 
                                             <li id="menu-item-133" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting </a></li>
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative Vatika</a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative MT Godowns </a></li>
 
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Onboarding of e-office
                                               </a></li>
@@ -341,7 +341,7 @@ div#mtsnb-153 {
                                             <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./events.php">Launch of Portal for IYC-2025</a></li>
                                             <li class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
                                             <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting</a></li>
-                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./vatika.php">Inauguration of Cooperative Vatika</a></li>
+                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./vatika.php">Inauguration of Cooperative 100 MT Godowns</a></li>
                                           </ul>
                                           </li>
                                         <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="./gallery.php">Gallery</a>
@@ -401,7 +401,7 @@ div#mtsnb-153 {
         text-align:center;
          font-size: 2rem;
             font-weight: bold;
-            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">Inauguration of Cooperative Vatika</h1>
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">Inauguration of Cooperative 100 MT Godowns</h1>
             <div class="elementor-element elementor-element-60644f7 elementor-widget elementor-widget-heading" data-id="60644f7" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<p class="elementor-heading-title elementor-size-default" style="text-align:center">Home &gt; Event </p>		</div>
@@ -564,7 +564,7 @@ div#mtsnb-153 {
 <body>
 
 <div class="event-section col-md-12" >
-    <h2 class="event-title"> Cooperative Vatika & Agri-Warehouse Inauguration</h2>
+    <h2 class="event-title">Inauguration of Cooperative MT Godowns</h2>
     
     <div class="event-details">
         <p><strong>📅 Date:</strong> January , 2025</p>
@@ -578,7 +578,7 @@ div#mtsnb-153 {
 
         <p><strong>Key Highlights:</strong></p>
         <ul>
-            <li>🔹 Inauguration of Cooperative Vatika at Panwadiya Cooperative Society with tree plantation.</li>
+            <li>🔹Inauguration of Cooperative MT Godowns at Panwadiya Cooperative Society with tree plantation.</li>
             <li>🔹 Launch of 100 MT Warehouse under the National Agriculture Development Scheme at B-PACS Kotajagir.</li>
             <li>🔹Distribution of Loan Approval Letters to 5 youth under the Chief Minister’s Youth Entrepreneur Scheme.</li>
             <li>🔹Recognition of Rampur District for its cooperative sector achievements.

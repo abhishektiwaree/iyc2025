@@ -1,0 +1,499 @@
+/*
+Theme Name: Artist Portfolio Pro
+Theme URI: https://www.buywptemplates.com/themes/videographer-wordpress-theme/
+Author: BuyWpTemplates
+Author URI: https://www.buywptemplates.com/
+Description:
+Version: 0.0.2
+License: GNU General Public License
+License URI:license.txt
+Text Domain: bwt-artist-portfolio-pro
+Tags: one-column, right-sidebar, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments
+Artist Portfolio Pro WordPress Theme has been created by BuyWpTemplates(buywptemplates.com), 2019.
+Artist Portfolio Pro WordPress Theme is released under the terms of GNU GPL
+*/
+/* Basic Style */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+  --color-black: #4A4A4A;
+  --color-white: #fff;
+  --color-yellow: #FFAB01;
+  }
+:root {
+  --font-serif: "DM Serif Display";
+  --font-Poppins: "Poppins";
+}
+
+*{
+  margin:0;
+  padding:0;
+  outline:none;
+}
+html body{
+  margin:0;
+  padding:0;
+  -ms-word-wrap:break-word;
+  word-wrap:break-word;
+  background-color:#fff;
+  position:relative;
+  font-size: 14px;
+  color: #6c6c6c;
+  font-family: var(--font-Montserrat);
+  font-weight: 300;
+  overflow-x: hidden;
+}
+body a {
+  text-decoration: none;
+  color: #242424;
+}
+a:hover {
+    color: var(--color-black);
+}
+.wp-block-search__inside-wrapper{
+  display: block;
+}
+section {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 15px 0;
+}
+h6{
+  font: 500 20px/26px var(--font-poppinsn);
+}
+h2{
+  font: 600 32px/45px var(--font-Poppins);
+      color: #000;
+}
+p{
+  font: 400 13px/22px var(--font-Poppins);
+
+}
+.nav-tabs,.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active, .nav-tabs .nav-link{
+  border: none;
+}
+ul li{
+  text-decoration: none;
+  list-style: none;
+}
+ol, ul{
+  padding-left: 0;
+}
+textarea {
+    padding: 5px;
+}
+.wpcf7-spinner{
+  margin: 0 -10px;
+}
+.wpcf7-spinner{
+  left: 50px;
+}
+.theme_button{
+  border-radius: 5px;
+  background: var(--color-sky-blue);
+  font: 600 14px/30px var(--font-poppins);
+  border: none;
+  transition: ease 0.25s all;
+  transition-duration: 1s;
+  color: var(--color-white);
+  transform: translateX(0px);
+}
+
+.theme_button:hover{
+  transform: translateX(0px);
+  opacity: 1;
+  letter-spacing: 1.2px;
+  background-image: linear-gradient(to right, #03B2FB , #088CEF);
+  color: var(--color-white);
+}
+.btn:focus{
+  outline: none;
+  box-shadow: none !important;
+}
+.modal-backdrop{
+  background: unset!important;
+  top: unset!important;
+  opacity: 1!important;
+  left: unset!important;
+}
+.bwt-scroll{
+  background-attachment: scroll;
+}
+.bwt-fixed{
+  background-attachment: fixed;
+}
+[type=search]{
+    width: 100%;
+}
+
+/*--------------Owl Carousel-----------------*/
+.owl-carousel button.owl-dot.active{
+    width: 10px;
+    height: 10px;
+    border-radius: 55px;
+    background-color: var(--color-sky-blue) !important;
+    border: 2px solid #FFF !important;
+    box-shadow: 0px 0px 0px 0.5px var(--color-sky-blue);
+        background-image: repeating-linear-gradient(
+25deg, #00c4f5, #00c4f5 13px, transparent 13px, transparent 22px, #00c4f5 22px), repeating-linear-gradient(
+115deg, #00c4f5, #00c4f5 13px, transparent 13px, transparent 22px, #00c4f5 22px), repeating-linear-gradient(
+205deg, #00c4f5, #00c4f5 13px, transparent 13px, transparent 22px, #00c4f5 22px), repeating-linear-gradient(
+295deg, #00c4f5, #00c4f5 13px, transparent 13px, transparent 22px, #00c4f5 22px);
+    background-size: 3px 100%, 100% 3px, 3px 100% , 100% 3px;
+    background-position: 12px 13px, 9px 14px, 100% 18px, 8px 100%;
+    background-repeat: no-repeat;
+
+}
+.owl-carousel button.owl-dot{
+  width: 8px;
+  height: 8px;
+  border-radius: 9px;
+  background-color: var(--color-sky-blue) !important;
+  border: 1px solid var(--color-sky-blue) !important;
+  margin: 0 12px;
+}
+/*--------------- Comments ---------------------*/
+.comments-rating {
+  border: none;
+  padding: 0;
+  margin-left: 0;
+}
+.comments-rating label {
+  display: inline-block;
+}
+.rating-container {
+  font-size: 0;
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+.rating-container * {
+  font-size: 1.4rem;
+}
+.rating-container > input {
+  display: none;
+}
+.rating-container > input + label {
+  font-family: 'dashicons';
+  display: inline-block;
+  overflow: hidden;
+  text-indent: 9999px;
+  width: 1em;
+  white-space: nowrap;
+  cursor: pointer;
+  margin: 0;
+}
+.rating-container > input + label:before {
+  display: inline-block;
+  text-indent: -9999px;
+  content: "\f154";
+  color: #888;
+}
+.rating-container > input:checked ~ label:before,
+.rating-container > input + label:hover ~ label:before,
+.rating-container > input + label:hover:before {
+  content: "\f155";
+  color: var(--color-sky-blue);
+  text-shadow: 0 0 1px #333;
+}
+.rating-container > .star-cb-clear + label {
+  text-indent: -9999px;
+  width: .5em;
+  margin-left: -.5em;
+}
+.rating-container > .star-cb-clear + label:before {
+  width: .5em;
+}
+.rating-container:hover > input + label:before {
+  content: "\f154";
+  color: var(--color-sky-blue);
+  text-shadow: none;
+}
+.rating-container:hover > input + label:hover ~ label:before,
+.rating-container:hover > input + label:hover:before {
+  content: "\f155";
+  color: var(--color-sky-blue);
+  text-shadow: 0 0 1px #333;
+}
+.comment-respond .rating-container > .star-cb-clear + label, .comment-respond .rating-container > input + label:before {
+  text-indent: 9999px;
+}
+.comment-respond .rating-container > input + label {
+  text-indent: -9999px;
+}
+.dashicons-star-filled:before{
+  color: var(--color-sky-blue);
+}
+.dashicons, .dashicons-before:before{
+  font-size: 16px;
+}
+/*-------- Loader ------------*/
+.bwt-travel-loading-box {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #e9e9eb;
+  cursor: pointer;
+  z-index: 9999;
+}
+.bwt-travel-loading-box .loader{
+  display: inline-block;
+  width: 30%;
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-image: url(assets/images/loader.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+/*----------------Header menu----------------------*/
+.close-icon {
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    -webkit-transform: rotateZ(45deg);
+    transform: rotateZ(45deg);
+}
+.close-icon:after, .close-icon:before {
+    display: block;
+    position: absolute;
+    background-color: var(--wolmart-light-color,#ccc);
+    content: "";
+}
+.close-icon:before {
+    height: 2px;
+    width: 100%;
+    left: 0;
+    top: calc(50% - 1px);
+}
+.close-icon:after {
+    height: 100%;
+    width: 2px;
+    top: 0;
+    left: calc(50% - 1px);
+}
+blockquote {
+  font-size: 18px;
+  font-style: italic;
+  max-width: 100%;
+  padding: 1.25em 40px 0.3em;
+  line-height: 1.45;
+  position: relative;
+  color: #0f0f0f;
+  border-bottom: 8px solid var(--color-sky-blue);
+  background: #EDEDED;
+  background:#EDEDED;
+    -webkit-box-shadow: 0px 4px 13px -7px var(--color-black)000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 4px 13px -7px var(--color-black)000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+blockquote::before{
+  font-size: 88px;
+  font-family: Arial;
+  content: "\201C";
+  color: var(--color-sky-blue);
+  position: absolute;
+  left: 7px;
+  top: -28px;
+}
+blockquote cite {
+  color: #999999;
+  font-size: 14px;
+  display: block;
+  margin-top: 5px;
+}
+blockquote cite:before {
+  content: "\2014 \2009";
+}
+#accordion .accordion-button:not(.collapsed)::after {
+    background-image: url("assets/images/accordion.png") !important;
+    transform: rotate(-180deg);
+}
+#accordion .accordion-button::after {
+    flex-shrink: 0;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-left: auto;
+    content: "";
+    background-image: url("assets/images/accordiono.png") !important;
+    background-repeat: no-repeat;
+    background-size: 1.25rem;
+    transition: transform .2s ease-in-out;
+}
+th a{
+  color: #03B2FB;
+}
+#typography-sec .table-striped th:hover a{
+  color: #03B2FB;
+}
+/*----------Return To Top------------*/
+#return-to-top {
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+  background-color: #03B2FB;
+  width: 50px;
+  height: 50px;
+  display: block;
+  text-decoration: none;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  display: none;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  z-index: 99;
+}
+#return-to-top i {
+  color: white;
+  position: relative;
+  top: 12px;
+  font-size: 19px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  padding: 16px 16px;
+  background-color: var(--color-yellow);
+  border-radius: 50%;
+}
+/*#return-to-top:hover {
+  background: var(--color-sky-blue);
+}*/
+#return-to-top:hover i {
+  color: white;
+  top: 5px;
+}
+.customize-partial-edit-shortcut-button{
+  padding: 0 !important;
+}
+/*--------------Buy Now----------------*/'
+.buynow{
+  padding:10px !important;
+}
+.buynow:hover a{
+  letter-spacing: 2px;
+  transition-duration:1s;
+}
+.buynow{
+  background-color: #e9a229;
+}
+.buy-now-footer:hover{
+  color: #fff;
+  letter-spacing: 2px;
+  transition-duration: 1s;
+}
+/*----------------- Product Star Rating--------------*/
+.woocommerce ul.products li.product .product-rating,.product-rating{
+  display: block;
+  overflow: hidden;
+  position: relative;
+  line-height: 1;
+  font-size: 1em;
+  font-family: star;
+}
+.woocommerce ul.products li.product .product-rating{
+ color: #fec806;
+ margin: 0 auto;
+ float: none;
+ height: 1.7em;
+ width: 5.4em;
+ font-family: star;
+}
+.star-rating{
+  color: #ffca04;
+  font-size: 17px;
+  height: 1em;
+  width: 5.4em;
+  margin-bottom: 8px;
+  margin-top: 0px;
+}
+.woocommerce .product-rating::before{
+ content: "\73\73\73\73\73";
+ color: #d3ced2;
+ float: left;
+ top: 0;
+ left:0;
+ position: absolute;
+}
+.product-rating span{
+ overflow: hidden;
+ float: left;
+ top: 0;
+ left: 0;
+ position: absolute;
+ padding-top: 1.5em;
+ width: 18%;
+}
+/* .shop-page .product-rating span::before,.shop-page .product-rating::befores{
+  left: 46px !important
+} */
+.product-rating:before {
+    content: "\73\73\73\73\73";
+    color: #faab01;
+    float: left;
+}
+.product-rating span:before {
+    content: "\53\53\53\53\53";
+}
+.product-rating:before, .product-rating span, .product-rating span:before{
+    top: 0px;
+    left: 0;
+    position: absolute;
+    font-size: 17px;
+}
+
+.product-rating span {
+    overflow: hidden;
+    float: left;
+    padding-top: 1.5em;
+}
+/* .product-rating:before, .product-rating span, .product-rating span:before {
+    top: 4px;
+    left: 0;
+    position: absolute;
+} */
+.product-rating span {
+    overflow: hidden;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding-top: 1.5em;
+}
+.comment-value{
+  display: none;
+}
+.product-content a:hover {
+    color: var(--color-black);
+}
+#ourArt .outer-art .add_to_cart_button i{
+  color: #fff;
+    background-color: var(--black-head);
+    padding: 9px 8px;
+    border-radius: 50%;
+    float: right;
+}
+.accordion-item:before {
+    content: '';
+    display: block;
+    background-image: url('../images/faq_v1.png') !important;
+    width: 45px;
+    top: 9px;
+    left: 12px;
+    height: 46px;
+    position: absolute;
+    z-index: 99;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #faab01;
+    border-radius: 7px;
+}

@@ -1,6 +1,5 @@
 <?php
-function page_header()
-{
+function page_header(){
   echo '
 <!DOCTYPE html>
 <html lang="en-US">
@@ -971,7 +970,7 @@ function page_header()
                       <div class="col-lg-9 col-md-12 col-sm-12 col-12 text-center d-flex flex-wrap align-items-center justify-content-around announcenet-left-content">
 
                         <div class="topbar-email">
-                          <a href="mailto:Artist@gmail.com" class="d-flex align-items-center">
+                          <a href="" class="d-flex align-items-center">
                             <i class="fa-solid fa-envelope"></i>
                             Email : info@iycup2025.in</a>
                         </div>
@@ -1026,19 +1025,16 @@ function page_header()
                                             <li id="menu-item-125" class="page-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-125"><a href="#">Plantation Drive</a></li>
                                             <li id="menu-item-126" class="services menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="#">Rangoli Making</a></li>
 											<li id="menu-item-126" class="services menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="#">Use The IYC Logo</a></li>
-                                            <!-- <li id="menu-item-127" class="events menu-item menu-item-type-custom menu-item-object-custom menu-item-127"><a href="#">Events</a></li>
-                                            <li id="menu-item-128" class="error menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="#">404</a></li>
-                                            <li id="menu-item-129" class="typography menu-item menu-item-type-custom menu-item-object-custom menu-item-129"><a href="#">Typography</a></li> -->
                                           </ul>
                                         </li>
                                         <li id="menu-item-131" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-131"><a href="#">Events</a>
                                           <ul class="sub-menu">
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./events.php">Launch of Portal for IYC-2025
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="events.php">Launch of Portal for IYC-2025
                                               </a></li>
 
-                                            <li id="menu-item-133" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting </a></li>
-                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./vatika.php">Inauguration of Cooperative MT Godowns</a></li>
+                                            <li id="menu-item-133" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="marathon.php">Cooperative Marathon Run for Cooperation</a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="agm.php">Sultanpur DCB 67th Annual Meeting </a></li>
+                                            <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="vatika.php">Inauguration of Cooperative MT Godowns</a></li>
 
                                             <li id="menu-item-132" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="#"> Onboarding of e-office
                                               </a></li>
@@ -1081,16 +1077,14 @@ function page_header()
                                         </li>
                                         <li class="event menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-130"><a href="#">Events</a>
                                         <ul class="sub-menu">
-                                            <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="./events.php">Launch of Portal for IYC-2025</a></li>
-                                            <li class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="./marathon.php">Cooperative Marathon Run for Cooperation</a></li>
-                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./agm.php">Sultanpur DCB 67th Annual Meeting</a></li>
-                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="./vatika.php">Inauguration of Cooperative MT Godowns</a></li>
+                                            <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="events.php">Launch of Portal for IYC-2025</a></li>
+                                            <li class="blog-with-left-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="marathon.php">Cooperative Marathon Run for Cooperation</a></li>
+                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="agm.php">Sultanpur DCB 67th Annual Meeting</a></li>
+                                            <li class="blog-with-right-sidebar menu-item menu-item-type-custom menu-item-object-custom menu-item-134"><a href="vatika.php">Inauguration of Cooperative MT Godowns</a></li>
                                           </ul>
                                           </li>
-                                        <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="./gallery.php">Gallery</a>
-                                        
-                                     
-                                        
+                                        <li class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="gallery.php">Gallery</a>
+                                       
                                     </div>
                                   </nav>
                                 </div>
@@ -1102,7 +1096,7 @@ function page_header()
                       <div class="col-xl-1 col-lg-1 col-md-4 col-sm-1 col-4 text-lg-center text-md-end text-sm-end text-end  align-self-center search-bar">
                         <!-- <div class="search-bars d-flex justify-content-end align-items-center"><i class="fa-solid fa-search"></i> -->
                         <div id="wrap">
-                          <form role="search" method="get" class="search-form serach-page" action="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/">
+                          <form role="search" method="get" class="search-form serach-page" action="">
                             <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" required>
                             <button type="submit" name="button" class="border-0">
                               <i class="fa-solid fa-search"></i>
@@ -1162,10 +1156,10 @@ function page_footer()
             <h3 class="widget-title">QUICK LINKS</h3>
             <div class="menu-footer-menu-1-container">
               <ul id="menu-footer-menu-1" class="menu">
-                <li id="menu-item-136" class="home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-136"><a href="" aria-current="page">Home</a></li>
-                <li id="menu-item-137" class="about menu-item menu-item-type-custom menu-item-object-custom menu-item-137"><a href="">About</a></li>
-                <li id="menu-item-139" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a href="">Blog</a></li>
-                <li id="menu-item-140" class="contact menu-item menu-item-type-custom menu-item-object-custom menu-item-140"><a href="">Contact Us</a></li>
+                <li id="menu-item-136" class="home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-136"><a href="index.php" aria-current="page">Home</a></li>
+                <li id="menu-item-137" class="about menu-item menu-item-type-custom menu-item-object-custom menu-item-137"><a href="#">About</a></li>
+                <li id="menu-item-139" class="blog menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a href="gallery.php">Gallery</a></li>
+                <li id="menu-item-140" class="contact menu-item menu-item-type-custom menu-item-object-custom menu-item-140"><a href="#">Contact Us</a></li>
               </ul>
             </div>
           </aside>
@@ -1192,7 +1186,7 @@ function page_footer()
                       <p role="status" aria-live="polite" aria-atomic="true"></p>
                       <ul></ul>
                     </div>
-                    <form action="/bwt-artist-portfolio-pro/#wpcf7-f118-o2" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+                    <form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
                       <div style="display: none;">
                         <input type="hidden" name="_wpcf7" value="118" />
                         <input type="hidden" name="_wpcf7_version" value="5.9.8" />
@@ -1222,7 +1216,7 @@ function page_footer()
                 <i class="fa-solid fa-location-dot align-middle me-2"></i>
                 Sahkarita Bhawan, Lucknow</a>
 
-              <a class="mail me-lg-5 icon icon-fill" href="tel:bwt_artist_portfolio_pro_our_contact_widget_mail" target="_blank">
+              <a class="mail me-lg-5 icon icon-fill" href="" target="_blank">
                 <i class="fa-solid fa-envelope align-middle me-2"></i>
                 info@iycup2025.in </a>
 
@@ -1346,6 +1340,5 @@ var wc_order_attribution = {
 <script type="text/javascript" src="https://demos.buywptemplates.com/bwt-artist-portfolio-pro/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.3.3" id="wc-order-attribution-js"></script>
 </body>
 
-</html>
-    ';
+</html>';
 } ?>

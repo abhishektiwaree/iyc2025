@@ -73,13 +73,13 @@ page_header();
             <img src="./gallery/agm(1).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 1" onclick="openModal(0)">
         </div>
         <div class="col-lg-6 mb-4 mb-lg-0">
-            <img src="./gallery/agm(3).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 2" onclick="openModal(1)">
+            <img src="./gallery/agm(4).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 2" onclick="openModal(1)">
         </div>
         <div class="col-lg-6 mb-4 mb-lg-0">
             <img src="./gallery/agm(2).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 3" onclick="openModal(2)">
         </div>
         <div class="col-lg-6 mb-4 mb-lg-0">
-            <img src="./gallery/agm(4).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 4" onclick="openModal(3)">
+            <img src="./gallery/agm(3).jpeg" class="w-100 shadow-1-strong rounded mb-4" alt="Gallery Image 4" onclick="openModal(3)">
         </div>
        
     </div>
